@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Microsoft Team**
 
-- 💬 Ask me about **react,vue and gsap**
+- 💬 Ask me about **html,css and php**
 
 - 📫 How to reach me **thedarkworld@programmer.net**
 
