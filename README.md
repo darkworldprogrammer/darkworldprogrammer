@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **MERN**
 
 - 👯 I’m looking to collaborate on **Software Development**
 
 - 🤝 I’m looking for help with **Microsoft Team**
 
-- 💬 Ask me about **html,css and php**
+- 💬 Ask me about **HTML,CSS,JS and REACT**
 
 - 📫 How to reach me **thedarkworld@programmer.net**
 
